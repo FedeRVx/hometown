@@ -27,7 +27,7 @@ body {
     transform: translate(-50%, -50%);
     color: white;
     padding: 0px 20px 0px 20px;
-    background-color: #000000d9;
+    background-color: rgba(0, 0, 0, 0.851);
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #0000;
     margin-bottom: 20px;
     border-radius: 20px;
@@ -41,7 +41,7 @@ body {
     transform: translate(-50%, -50%);
     color: white;
     padding: 0px 20px 0px 20px;
-    background-color: #000000d9;
+    background-color: rgba(0, 0, 0, 0.851);
     border-radius: 20px;
 }
 
